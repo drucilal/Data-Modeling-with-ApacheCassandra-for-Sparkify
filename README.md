@@ -1,6 +1,6 @@
 <h2>Data Modeling with Apache Cassandra for Sparkify<h2>
 
-
+![Image of Cassandra](cassandra.png)
 
 <h3>Introduction:<h3>
 
